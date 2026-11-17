@@ -1,0 +1,25 @@
+# UNIVERSAL MASTER PROMPT: ZERO-SLOP EXECUTIVE VIRTUAL STUDIO PORTRAIT
+# Compatible Engines: Google Flow (Nano Banana Pro / Omniflash), Midjourney v6, ChatGPT DALL-E 3
+# Author: Sam Adeyinka | Full-Stack Digital Marketing Specialist & High-Ticket Consultant
+#
+# QUICK CUSTOMIZATION INSTRUCTION:
+# The benchmark below uses Sam Adeyinka's physical features (styled locs, beard, melanin depth).
+# If you are generating for yourself or someone else, ask ChatGPT or Claude to describe your photo
+# in 3 factual sentences, then replace the bracketed hairstyle/beard text below before hitting generate.
+
+A hyperrealistic commercial studio portrait of the person in [ATTACHED_FACE_REFERENCE], accurately preserving their real facial bone structure, natural eye shape, authentic skin undertones, and specific hairstyle: [INSERT YOUR EXTRACTED PHYSICAL TRAITS HERE: e.g., neat styled dreadlocks gathered back with a clean hairline and groomed full beard].
+
+STANCE & BODY LANGUAGE:
+The subject is captured in an authoritative executive folded-arms power stance. The left forearm crosses the chest with the left hand resting naturally against the right upper arm, fingers relaxed with realistic joint curvature and zero digit deformation. The right arm crosses underneath to support the stance, shoulders square and broad, posture upright and composed. The subject looks directly into the camera lens with a calm, discerning, high-status expression.
+
+WARDROBE & TEXTILE TAILORING:
+Wearing a bespoke tailored jet-black wool two-button blazer with structured shoulders, sharp notched lapels, and visible textile fabric weave. Underneath is a crisp optical-white poplin spread-collar dress shirt, unbuttoned at the neck with a clean collar stand and no tie. On the left wrist is a modern matte-black digital smartwatch with a low-profile dark silicone band peeking out from the tailored shirt cuff.
+
+LIGHTING PHYSICS & STUDIO ENVIRONMENT:
+Photographed in a professional high-end studio setting against a seamless matte charcoal-grey cyclorama background with a soft, subtle radial vignette. Motivated 3-point studio lighting setup: a large 5600K diffused key light positioned 45 degrees camera-right delivering smooth, natural contrast across facial planes and subtle specular catchlights in both pupils; gentle neutral fill on the shadow side maintaining shadow detail; and a refined cool rim light contouring the shoulders and hair for distinct separation from the dark background.
+
+OPTICAL CHARACTERISTICS & SENSOR PARAMETERS:
+Shot on an 85mm portrait prime lens at f/2.8 on a medium-format digital sensor. Intentionally shallow depth of field rendering the eyes and facial features tack-sharp while allowing the background to fall into a smooth, creamy blur. 
+
+INTEGRATED ANTI-SLOP & FIDELITY CONSTRAINTS:
+Enforce true biological realism: visible epidermal micro-pores, natural skin moisture, fine facial hair stubble, realistic knuckle folds, and natural fingernail texture. Strictly forbid plastic skin smoothing, porcelain airbrushing, artificial beauty filters, synthetic skin sheen, extra fingers, fused digits, mutated hands, asymmetrical suit lapels, warped collars, cartoon stylization, floating artifacts, or low-resolution digital compression.
